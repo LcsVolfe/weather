@@ -33,7 +33,7 @@ export class DocumentationScreen extends React.Component {
                                 <Text style={[styles.description, styles.ml05]}><Text>{'\u2022'}</Text>react native: 0.61.5.</Text>
                                 <Text style={[styles.description, styles.ml05, styles.mb05]}><Text>{'\u2022'}</Text>React native material</Text>
                                 <Text style={[styles.description]}>
-                                    Tendo como objetivo a entrega de uma prova técnica para vaga de desenvolvedor react native na Builders, 
+                                    Tendo como objetivo a entrega de um projeto com react native, 
                                     o app aqui desenvolvido consome a localização atual do aparelho através do Geolocation-'@react-native-community/geolocation', exibindo para o usuário a cidade e dados climáticos da mesma com a posibilidade de atualizar as informações.
                                 </Text>
                                 <Text style={[styles.description, styles.mb05]}>Para coleta dos dados foi utilizado a API do Open Weather Map.</Text>
